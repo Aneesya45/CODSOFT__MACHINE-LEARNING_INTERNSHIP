@@ -1,0 +1,2 @@
+#The dataset file size limit is beyond 25mb , hence I have given the link for the test_data dataset I used:
+https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
