@@ -3,7 +3,8 @@ HI!!! Here are the tasks that i carried out during my machine learning internshi
 
 --TASK 1:  MOVIE GENRE CLASSIFICATION
 
-In this task, I classified the movie genres using vectorizers,logistic regeression and finally i plotted the barchart using matplot and seaborn modules.
+In this task, I classified the movie genres using vectorizers, then used logistic regression to get the performance metrics and accuracy scores
+and finally i plotted the barchart using matplot and seaborn modules.
 
 --TASK 2: 
 
