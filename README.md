@@ -9,6 +9,7 @@ and finally i plotted the barchart using matplot and seaborn modules.
 --TASK 2: CREDIT CARD FRAUD DETECTION
 
 -->The task is to detect whether the transaction is being made by a person who do not own the credit card
+
 -->I have used logistic regression and both decision tree as well as random forest classifier for classification
 the accuracy i have obtained for the algorithms are:
 *random forest=99.52
