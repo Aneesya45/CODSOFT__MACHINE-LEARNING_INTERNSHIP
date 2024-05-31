@@ -34,8 +34,3 @@ TASK 4: SPAM MESSAGE DETECTION
 
 -->Here,I used transformers,tensor flow and keras modules for the detection process.
 
-TASK 5: HAND-WRITTEN TEXT RECOGNITION
-
--->Here, the task is to detect whether the text is hand-written or digital.
-
--->So for this, I used 
